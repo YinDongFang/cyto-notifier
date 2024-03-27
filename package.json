@@ -1,0 +1,31 @@
+{
+  "name": "cyto-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-notifier.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-notifier/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-notifier#readme",
+  "dependencies": {
+    "cytoscape": "^3.28.1",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "koa": "^2.15.2",
+    "lazy-store-loader": "^2.0.3",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "uuid": "^9.0.1",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21"
+  }
+}
